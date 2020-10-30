@@ -15,7 +15,7 @@
       set_fact:
         pgrole: 'sonarr2'
         intport: '8989'
-        extport: '8989'
+        extport: '8990'
         image: 'linuxserver/sonarr:preview'
 
     # CORE (MANDATORY) ############################################################
